@@ -3,6 +3,20 @@
     <channel>
         <title>Snapwise</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 22 Nov 2026 14:36:08 -0500</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in Snapwise 1.0.1</h3><ul>
+<li>Choose what's in the menu bar menu: show, hide and reorder items in Settings › Menu.</li>
+<li>Delayed capture now counts down before you pick an area or window, so open menus and hover states get captured.</li>
+<li>Fixed the version number shown in About and used for updates.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/snapwise-updates/releases/download/v1.0.1/Snapwise_1.0.1.dmg" length="5680857" type="application/octet-stream" sparkle:edSignature="ygIq+i9jFmKJFrgK7I2TzoTiScbtshRmyKrnnxkIaREpiNK36zKAgOjbHx2ghHfhE4nBPa/4h87g6Z1psdGeBg=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Sun, 22 Nov 2026 14:30:33 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
