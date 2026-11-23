@@ -3,6 +3,20 @@
     <channel>
         <title>Snapwise</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Mon, 23 Nov 2026 10:25:15 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in Snapwise 1.2.0</h3><ul>
+<li>Resize shapes after drawing: select a rectangle, oval or redaction box and drag its handles (hold Shift to keep proportions).</li>
+<li>Drag the ends of arrows and lines to adjust them.</li>
+<li>New corner-radius slider for rectangles.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/snapwise-updates/releases/download/v1.2.0/Snapwise_1.2.0.dmg" length="5793008" type="application/octet-stream" sparkle:edSignature="njOjkAuCnYwvqQ5bWnjsQlGJ7fGMxo4bakPTiO4A4vk8KTqwrFbvyJFkJV1Y9NDNIlvCsm7mXTZhvMv2nhe0CA=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Sun, 22 Nov 2026 22:26:59 -0500</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -27,24 +41,6 @@
 </ul>
 ]]></description>
             <enclosure url="https://github.com/ranbd4/snapwise-updates/releases/download/v1.0.1/Snapwise_1.0.1.dmg" length="5680857" type="application/octet-stream" sparkle:edSignature="ygIq+i9jFmKJFrgK7I2TzoTiScbtshRmyKrnnxkIaREpiNK36zKAgOjbHx2ghHfhE4nBPa/4h87g6Z1psdGeBg=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sun, 22 Nov 2026 14:30:33 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h3>What's new in Snapwise 1.0.0</h3><ul>
-<li>Capture any area, window or the whole screen with a frozen-frame selector, magnifier and pixel-exact sizes.</li>
-<li>Scrolling capture stitches long pages and chats into one image. Scroll yourself or let Snapwise auto-scroll.</li>
-<li>Editor with arrows, shapes, text, numbered steps, highlighter, blur, pixelate, spotlight, crop, backdrops and zoom.</li>
-<li>Copy text from anything on screen (OCR) and read QR codes, all on your Mac.</li>
-<li>Pin screenshots above all windows, pick colors as HEX, RGB, HSL or OKLCH, and measure with the screen ruler.</li>
-<li>Apple Intelligence: smart file names, one-click redaction of private info, and translation. Nothing leaves your Mac.</li>
-<li>Opens at login and keeps itself up to date.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/ranbd4/snapwise-updates/releases/download/v1.0.0/Snapwise_1.0.0.dmg" length="5639134" type="application/octet-stream" sparkle:edSignature="V/2xNgt0ykPbWBYOaWkE0o1wGUQh90foPL89IZ4ziSlC6WQNP4UEyMN/5nxZcfzNjQRfE6lIu2yI2bk8wLVwCg=="/>
         </item>
     </channel>
 </rss>
