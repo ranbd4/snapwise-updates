@@ -3,6 +3,18 @@
     <channel>
         <title>Snapwise</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Sun, 22 Nov 2026 22:26:59 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h3>What's new in Snapwise 1.1.0</h3><ul>
+<li>Find Sensitive Info now shows its work: Snapwise visibly reads your screenshot, highlights what it finds, and hides it, with a one-click Undo.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/ranbd4/snapwise-updates/releases/download/v1.1.0/Snapwise_1.1.0.dmg" length="5783302" type="application/octet-stream" sparkle:edSignature="IbXRcndXbtHFjEtA9XVYR2pqGvBMVWuCALB2ytAFnoVojl0uUhK4+RQjyYoXX4p0c4G4+TggW1ptdKZyyydvDA=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Sun, 22 Nov 2026 14:36:08 -0500</pubDate>
             <sparkle:version>3</sparkle:version>
